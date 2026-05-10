@@ -1,0 +1,15 @@
+2026-05-10 16:33:11,266 - INFO - Starting file automation tasks...
+2026-05-10 16:33:11,266 - INFO - Organizing files in: D:\Python automation script\test_folder
+2026-05-10 16:33:11,267 - INFO - Created folder: Archives
+2026-05-10 16:33:11,267 - INFO - Moved: archive.zip -> Archives/
+2026-05-10 16:33:11,268 - INFO - Created folder: Documents
+2026-05-10 16:33:11,269 - INFO - Moved: budget.xlsx -> Documents/
+2026-05-10 16:33:11,269 - INFO - Created folder: Code
+2026-05-10 16:33:11,270 - INFO - Moved: main.py -> Code/
+2026-05-10 16:33:11,270 - INFO - Moved: notes.txt -> Documents/
+2026-05-10 16:33:11,271 - INFO - Moved: presentation.pptx -> Documents/
+2026-05-10 16:33:11,272 - INFO - Created folder: Others
+2026-05-10 16:33:11,274 - INFO - Moved: unknown.file -> Others/
+2026-05-10 16:33:11,275 - INFO - Created folder: Images
+2026-05-10 16:33:11,281 - INFO - Moved: vacation.jpg -> Images/
+2026-05-10 16:33:11,281 - INFO - Tasks completed. Check file_ops_20260510_163311.log for full details.
