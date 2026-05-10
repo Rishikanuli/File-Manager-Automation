@@ -17,7 +17,7 @@ def setup_logging():
     )
     return log_filename
 
-# Mapping for organization categories
+
 EXTENSION_MAP = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg', '.webp'],
     'Documents': ['.pdf', '.doc', '.docx', '.txt', '.xlsx', '.pptx', '.csv', '.md'],
